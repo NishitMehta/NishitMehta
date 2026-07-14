@@ -14,5 +14,3 @@ I build enterprise systems that run in production — ERP suites, identity platf
 
 📫 Reach me: nishitmehta55@gmail.com
 
-
-![Nishit's GitHub stats](https://github-readme-stats.vercel.app/api?username=NishitMehta&show_icons=true&theme=default)
