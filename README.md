@@ -13,3 +13,6 @@ I build enterprise systems that run in production — ERP suites, identity platf
 **Domain depth:** Indian government payroll, pension, GPF, and financial systems. Enterprise SSO. Disaster recovery. On-premise infrastructure.
 
 📫 Reach me: nishitmehta55@gmail.com
+
+
+![Nishit's GitHub stats](https://github-readme-stats.vercel.app/api?username=NishitMehta&show_icons=true&theme=default)
